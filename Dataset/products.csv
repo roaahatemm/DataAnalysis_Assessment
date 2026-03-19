@@ -1,0 +1,15 @@
+ProductID,ProductName,Category,UnitPrice
+1,Laptop,Electronics,280.72
+2,Smartphone,Electronics,476.86
+3,Headphones,Electronics,202.27
+4,T-Shirt,Fashion,11.57
+5,Jeans,Fashion,408.8
+6,Jacket,Fashion,410.83
+7,Sofa,Home,496.28
+8,Coffee Table,Home,465.69
+9,Lamp,Home,433.41
+10,Lipstick,Beauty,345.59
+11,Perfume,Beauty,389.35
+12,Book,Books,364.95
+13,Board Game,Toys,323.77
+14,Desk Organizer,Office,108.69
